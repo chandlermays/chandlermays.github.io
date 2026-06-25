@@ -4,6 +4,7 @@ layout: landing
 description: 'View My Projects'
 image: assets/images/pic07.jpg
 nav-menu: true
+show-tile: true
 ---
 
 <!-- Main -->
