@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Chandler Mays
+subtitle: Gameplay Programmer
 email: chandler.mays.7@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: A description?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chandlermays.github.io" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 
+city: Dallas/Fort Worth
+state: TX
+zip_code: 76180
 country: United States of America
-phone: (716) 555-5555
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
